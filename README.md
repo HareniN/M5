@@ -9,9 +9,11 @@ Write a C program to convert a 23.65 into 25 using pointer
 4.	Print the modified value.
 
 ## PROGRAM:
+![Screenshot 2025-04-26 045206](https://github.com/user-attachments/assets/a7907619-35a3-44fb-961c-db9d7e51104d)
 
 ## OUTPUT:
  	
+![Screenshot 2025-04-26 045212](https://github.com/user-attachments/assets/95360db5-c22d-40ae-9ec8-7d2cb720d000)
 
 
 
@@ -45,8 +47,11 @@ Write a C program to calculate the Product of first 12 natural numbers using Rec
 6.	Print the result, indicating it is the product of the first 12 natural numbers.
 
 ## PROGRAM:
+![image](https://github.com/user-attachments/assets/c380c5f5-fe36-410a-85ff-46d551132fa3)
+
 ## OUTPUT:
-         		
+ ![image](https://github.com/user-attachments/assets/706d0f24-fd03-4ee0-9e70-97fcbfa95aa7)
+        		
 ## RESULT:
 
 Thus the program has been executed successfully.
@@ -68,17 +73,19 @@ Write C Program to find Sum of each row of a Matrix
 4.	Print the sum for each row.
 
 ## PROGRAM:
+![Screenshot 2025-04-26 045729](https://github.com/user-attachments/assets/190ea10a-3c4c-4118-8932-6117c360bde6)
 
 
 
 ## OUTPUT
 
+![Screenshot 2025-04-26 045734](https://github.com/user-attachments/assets/fb9d1f73-2771-4dab-8ada-797f27f8b335)
 
  
  
 
  ## RESULT
- 
+ Thus the program has been executed successfully.
 
 
 # EX-24-STRINGS
@@ -96,9 +103,12 @@ Write C program for the below pyramid string pattern. Enter a string: PROGRAM En
 5.	End the program.
 
 ## PROGRAM:
+![Screenshot 2025-04-26 050107](https://github.com/user-attachments/assets/3dd0f16b-ad9a-42b1-882b-54723a6a716c)
 
 
  ## OUTPUT
+![image](https://github.com/user-attachments/assets/7d750f42-6a39-46be-aa81-21e7e72fc880)
+
 
  
 
@@ -108,7 +118,6 @@ Thus the C program to String process executed successfully
  
 
  
-.
 
 
 
@@ -132,10 +141,16 @@ Step 5: Loop from i = 0 to i < n:
 Step 6: End the program.
 
 ## PROGRAM
+![Screenshot 2025-04-26 051713](https://github.com/user-attachments/assets/e6d5419d-ae8f-4561-bf4c-f99f31dc6fc5)
 
 ## OUTPUT
+![Screenshot 2025-04-26 051719](https://github.com/user-attachments/assets/851d25bd-3bc1-451e-9be6-348490d08f3a)
 
+## RESULT
+
+Thus the C program to String process executed successfully
  
+
 
 ## RESULT
 
